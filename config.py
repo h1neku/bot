@@ -1,0 +1,11 @@
+BOT_TOKEN = '5700536545:AAFctKNPUFWk_y25sevVu1uiQ60Dcc1QfX0'
+# orig=
+owner_id=0
+group_newbot=0
+Test_group=0
+offical_group= 0
+log_group=0
+channel_offical=0
+report_group=0
+BOT_NICKNAME='Hdhdhrhfbot'
+QIWI_TOKEN='5700536545:AAFctKNPUFWk_y25sevVu1uiQ60Dcc1QfX0'
