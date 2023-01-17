@@ -1,0 +1,4 @@
+captcha
+aiogram
+psycopg2
+numpy
